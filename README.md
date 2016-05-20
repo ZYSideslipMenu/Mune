@@ -1,4 +1,5 @@
 # ZYSideslipMenuView
+可以看下,但是不要用,里面用的了苹果不公开的api
 侧拉菜单框架
 
 1创建ZYTestViewController继承ZYSideslipMenuViewController 之后就能随便操作,
